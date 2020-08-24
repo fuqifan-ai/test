@@ -1,3 +1,3 @@
 class Person(object):
-    def test(self):
-        pass
+    def demo(self):
+        print('888')
